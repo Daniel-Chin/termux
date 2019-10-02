@@ -1,0 +1,3 @@
+echo Pulling...
+cd /sdcard/Python
+git pull https://github.com/Daniel-Chin/Python_Lib
