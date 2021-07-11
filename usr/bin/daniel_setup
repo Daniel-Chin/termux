@@ -5,4 +5,3 @@ pkg install nodejs
 pkg install file
 pkg install sox
 cd ~
-git clone https://github.com/daniel-chin/WhereDitGo
