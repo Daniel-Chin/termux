@@ -5,4 +5,9 @@ pkg install nodejs
 pkg install file
 pkg install sox
 pkg install vim
+
+pkg install rust
+pip install cryptography
+pip install colorama
+
 cd ~
