@@ -10,8 +10,8 @@ pkg install sox
 pkg install vim
 
 pkg install rust
-pip install cryptography
 pip install colorama
+pkg install python-cryptography
 
 cd ~
 mkdir python_lib
