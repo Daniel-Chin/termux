@@ -1,4 +1,7 @@
+# Recommended: run manually line-by-line
+
 pkg up
+apt full-upgrade
 pkg install python
 pkg install git
 pkg install nodejs
@@ -11,3 +14,8 @@ pip install cryptography
 pip install colorama
 
 cd ~
+mkdir python_lib
+cd python_lib
+git init
+git remote add origin https://github.com/Daniel-Chin/Python_Lib
+git pull origin main

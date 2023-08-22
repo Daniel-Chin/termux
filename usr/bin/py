@@ -1,2 +1,2 @@
-cd /sdcard/Python
+cd ~/python_lib
 python $*
