@@ -1,7 +1,7 @@
 # Recommended: run manually line-by-line
 
 pkg up
-apt full-upgrade
+# apt full-upgrade
 pkg install python
 pkg install git
 pkg install nodejs
