@@ -2,14 +2,14 @@
 
 pkg up
 # apt full-upgrade
-pkg install python
 pkg install git
+pkg install python
 pkg install nodejs
 pkg install file
 pkg install sox
 pkg install vim
-
 pkg install rust
+
 pip install colorama
 pkg install python-cryptography
 
