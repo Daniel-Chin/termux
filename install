@@ -1,5 +1,0 @@
-cd ./home/.shortcuts
-bash ./ch_my_mod.sh
-cd ../../usr/bin
-bash ./ch_my_mod
-cp -r ~/termux/* ~/..

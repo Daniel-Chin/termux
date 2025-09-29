@@ -4,6 +4,7 @@ pkg up
 # apt full-upgrade
 pkg install git
 pkg install python
+pkg install which
 pkg install nodejs
 pkg install file
 pkg install sox
@@ -13,9 +14,5 @@ pkg install rust
 pip install colorama
 pkg install python-cryptography
 
-cd ~
-mkdir python_lib
-cd python_lib
-git init
-git remote add origin https://github.com/Daniel-Chin/Python_Lib
-git pull origin main
+git clone https://github.com/Daniel-Chin/Python_Lib ~/python_lib
+
