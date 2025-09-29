@@ -1,6 +1,7 @@
 chmod +x ./ch_my_mod
 chmod +x ./daniel_setup
 chmod +x ./pad
+chmod +x ./pad_liwei
 chmod +x ./pull
 chmod +x ./py
 chmod +x ./pym
